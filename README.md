@@ -4,7 +4,7 @@
 
 ## 📸 Demonstração do Jogo
 
-![GIF do Jogo em Funcionamento]
+![GIF do Jogo em Funcionamento](./demonstracao.gif)
 
 
 Projeto de um jogo estilo Endless Runner desenvolvido em Scratch como parte dos meus estudos de programação no CS50x, inspirado no clássico jogo do dinossauro do Google.
