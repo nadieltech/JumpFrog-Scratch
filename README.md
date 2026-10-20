@@ -1,5 +1,12 @@
 # 🐸 Jump Frog
 
+> 🔗 **Acesse e jogue o projeto:** [Clique aqui para jogar e ver o código no Scratch](https://scratch.mit.edu/projects/1392093174)
+
+## 📸 Demonstração do Jogo
+
+![GIF do Jogo em Funcionamento]
+
+
 Projeto de um jogo estilo Endless Runner desenvolvido em Scratch como parte dos meus estudos de programação no CS50x, inspirado no clássico jogo do dinossauro do Google.
 
 ---
